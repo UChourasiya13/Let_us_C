@@ -1,4 +1,4 @@
-//program to show wheather a char is uppercase or lowercase
+//program to show whether a char is uppercase or lowercase
 #include<stdio.h>
 int main()
 {
